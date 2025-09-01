@@ -3,7 +3,7 @@
 <img width="1297" height="721" alt="image" src="https://github.com/user-attachments/assets/6bbec495-90d1-4186-aae3-50e8e13ecb05" />
 
 [![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/your-username/spotify-music-analysis?style=social)](https://github.com/your-username/spotify-music-analysis/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Sammychann/Spotify-2023-Analytics-Dashboard?style=social)](https://github.com/Sammychann/Spotify-2023-Analytics-Dashboard/stargazers)
 
 ---
 
